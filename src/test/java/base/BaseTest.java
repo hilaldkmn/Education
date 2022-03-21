@@ -32,7 +32,7 @@ public class BaseTest {
     DesiredCapabilities capabilities = new DesiredCapabilities();
 
 
-    // hello ..
+    // hello ....
     // bu kısım her senaryodan önce tekrar çalışır.
     @BeforeScenario
     public void setUp() throws Exception {
